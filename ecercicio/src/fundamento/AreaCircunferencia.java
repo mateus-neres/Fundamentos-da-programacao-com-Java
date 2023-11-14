@@ -5,7 +5,9 @@ public class AreaCircunferencia {
 		
 		// Variaveis
 		double raio = 3.4;
-		double pi = 3.14159;
+		
+		// Constantes
+		final double pi = 3.14159;
 		
 		// Tratamento dos dados
 		double area = pi * (raio * raio);
