@@ -7,12 +7,12 @@ public class AreaCircunferencia {
 		double raio = 3.4;
 		
 		// Constantes
-		final double pi = 3.14159;
+		final double Pi = 3.14159;
 		
 		// Tratamento dos dados
-		double area = pi * (raio * raio);
+		double area = Pi * (raio * raio);
 		
 		// Saida de dados
-		System.out.println(area);
+		System.out.println("Área = " + area + "m2");
 	}
 }
