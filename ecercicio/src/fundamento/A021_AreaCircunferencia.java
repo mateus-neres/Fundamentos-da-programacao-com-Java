@@ -1,6 +1,6 @@
 package fundamento;
 
-public class AreaCircunferencia {
+public class A021_AreaCircunferencia {
 	public static void main(String[] args) {
 		
 		// Variaveis

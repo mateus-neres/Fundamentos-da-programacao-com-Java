@@ -1,6 +1,6 @@
 package fundamento;
 
-public class desafioConversaoTemperatura {
+public class A022_desafioConversaoTemperatura {
 	public static void main(String[] args) {
 		
 		int f = 30;
