@@ -2,11 +2,12 @@ package fundamento;
 
 public class desafioConversaoTemperatura {
 	public void main(String[] args) {
+		
 		int f = 30;
 		
-		double celsius = (f - 32) / 1.8;
+		double c = (f - 32) / 1.8;
 		
-		System.out.println(celsius);
+		System.out.println(f + "F° = " + c);
 		
 	}
 }
