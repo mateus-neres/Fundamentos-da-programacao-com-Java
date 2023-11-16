@@ -2,12 +2,15 @@ package fundamento;
 
 public class A022_desafioConversaoTemperatura {
 	public static void main(String[] args) {
+		// Desafio, conversão de Fahrenheit, (°F -32) * 5.0 / 9.0 = °C
+		final double FATOR = 5.0 / 9.0;
+		final double AJUSTE = 32;
+		double fahrenheit = 86;
 		
-		int f = 30;
+		double celsius = (fahrenheit - AJUSTE) * FATOR;
 		
-		double c = (f - 32) / 1.8;
 		
-		System.out.println(f + "F° = " + c);
+		System.out.println(fahrenheit + "°F = " + celsius + "°C");
 		
 	}
 }
