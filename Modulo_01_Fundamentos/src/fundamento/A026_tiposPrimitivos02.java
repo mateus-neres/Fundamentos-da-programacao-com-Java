@@ -25,5 +25,19 @@ public class A026_tiposPrimitivos02 {
 		// Dias de empresa 
 		System.out.println(anosDeEmpresa * 365);
 		
+		// Numeros de Viagens
+		System.out.println(numeroDeVoos / 2);
+		
+		// Pontos por real
+		System.out.println(pontosAcumulados	 / vendasAcumuladas );
+		
+		
+		System.out.println(id + " ganha -> " + salario);
+		System.out.println("Ferias? " + estaDeFerias);
+		System.out.println("Status: " + status);
+		
+		
+		
+		
 	}
 }
