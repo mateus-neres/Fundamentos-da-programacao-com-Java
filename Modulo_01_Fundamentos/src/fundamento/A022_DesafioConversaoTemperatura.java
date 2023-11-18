@@ -1,6 +1,6 @@
 package fundamento;
 
-public class A022_desafioConversaoTemperatura {
+public class A022_DesafioConversaoTemperatura {
 	public static void main(String[] args) {
 		
 		// Desafio, conversão de Fahrenheit, (°F -32) * 5.0 / 9.0 = °C

@@ -1,6 +1,6 @@
 package fundamento;
 
-public class A025_tiposPrimitivos01 {
+public class A025_TiposPrimitivos01 {
 	public static void main(String[] args) {		
 		/*
 		 

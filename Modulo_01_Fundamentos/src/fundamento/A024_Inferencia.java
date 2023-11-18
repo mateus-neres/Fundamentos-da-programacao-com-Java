@@ -1,6 +1,6 @@
 package fundamento;
 
-public class A024_inferencia {
+public class A024_Inferencia {
 	public static void main(String[] args) {
 		
 		// O metodo "var" define o tipo de sua variavel automaticamente

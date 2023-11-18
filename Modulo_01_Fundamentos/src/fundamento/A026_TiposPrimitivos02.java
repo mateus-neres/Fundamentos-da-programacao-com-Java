@@ -1,6 +1,6 @@
 package fundamento;
 
-public class A026_tiposPrimitivos02 {
+public class A026_TiposPrimitivos02 {
 	public static void main(String[] args) {
 		
 		 //Informações de um funcionaris
