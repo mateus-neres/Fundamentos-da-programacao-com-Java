@@ -1,6 +1,6 @@
 package fundamento;
 
-public class Esclarecimento_Sobre_Os_Metodos_nextInt_e_nextDouble {
+public class A031_Esclarecimento_Sobre_Os_Metodos_nextInt_e_nextDouble {
 	
 	public static void main(String[] args) {
 		/*
