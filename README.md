@@ -2,9 +2,18 @@
 
 Este repositorio foi criado para o estudo da linguagem java, com fundamentos a orientação a objetos e outros suportes como Programação Funcional, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate.
 
+# Avisos!!
+
+O reposito começa no apenas no modulo 03 do curso, pois os modulos anteriores foram teoria, impossibilitado sua inserção nesse arquivo.
+
+A inserção de informações seram postas de acordo com as aulas praticas do curso - **Link abixo** - podendo não seguir uma ordem crescente sequancial.
+
 ## **Referências e links úteis**
 
-## **Class String**
+**Curso Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!**
+https://www.udemy.com/course/fundamentos-de-programacao-com-java/learn/lecture/15397198?start=0#overview
+
+**Class String**
 https://docs.oracle.com/javase/7/docs/api/java/lang/String.html
 
 ## **Referências Bibliográficas**
