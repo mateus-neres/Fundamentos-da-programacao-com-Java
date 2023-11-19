@@ -4,8 +4,8 @@ Este repositorio foi criado para o estudo da linguagem java, com fundamentos a o
 
 # Avisos!!
 
-**Aviso 01**
-O reposito começa apenas no modulo 03 do curso, pois os modulos anteriores foram teoria, impossibilitado sua inserção nesse arquivo.
+**Aviso 01:**
+ O reposito começa apenas no modulo 03 do curso, pois os modulos anteriores foram teoria, impossibilitado sua inserção nesse arquivo.
 
 A inserção de informações seram postas de acordo com as aulas praticas do curso - **Link abixo** - podendo não seguir uma ordem crescente sequancial.
 
