@@ -14,6 +14,8 @@ public class A033_Wrapper {
 		 * Para utilizar o Wrapper, pasta apenas alterar a primeira letra do tipo primitivo para maiuscula. 
 		 * Ex: "byte" é um tipo primitivo, para o transformar em wrapper, basta fazer "Byte", e assim você terá um tipo primitivo como
 		 * Obijeto. 
+		 * 
+		 * Resumindo os Wrappers são uma versao orietada a objeto dos tipos primitivos.
 		 */
 		
 		// Tipos primitivos numericos
