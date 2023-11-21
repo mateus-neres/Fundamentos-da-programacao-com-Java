@@ -10,6 +10,7 @@ public class A038_DesafioConversao {
 		
 		System.out.println("Digite o primeiro salario: ");
 		double PrimeiroSalario = teclado.nextDouble();
+		
 		System.out.println("Digite o segundo salario: ");
 		double SegundoSalario = teclado.nextDouble();		
 		System.out.println("Digite o terceiro salario: ");
@@ -20,3 +21,4 @@ public class A038_DesafioConversao {
 	
 	//Ultimos 3 salarios de 3 funcionarios e calcule a media dos ultimos 3 salarios esses valores sendo com . ou com ,
 }
+ 
