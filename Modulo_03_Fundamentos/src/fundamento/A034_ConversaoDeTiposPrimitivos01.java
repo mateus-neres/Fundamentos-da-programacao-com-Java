@@ -1,6 +1,6 @@
 package fundamento;
 
-public class A34_ConversaoDeTiposPrimitivos01 {
+public class A034_ConversaoDeTiposPrimitivos01 {
 
 	public static void main(String[] args) {
 		

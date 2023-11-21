@@ -1,6 +1,6 @@
 package fundamento;
 
-public class A36_ConversaoNumeroParaString {
+public class A036_ConversaoNumeroParaString {
 
 	public static void main(String[] args) {
 		

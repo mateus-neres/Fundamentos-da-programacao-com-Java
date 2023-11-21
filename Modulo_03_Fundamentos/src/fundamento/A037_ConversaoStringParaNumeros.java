@@ -2,7 +2,7 @@ package fundamento;
 
 import javax.swing.JOptionPane;
 
-public class A37_ConversaoStringParaNumeros {
+public class A037_ConversaoStringParaNumeros {
 	
 	public static void main(String[] args) {
 		
