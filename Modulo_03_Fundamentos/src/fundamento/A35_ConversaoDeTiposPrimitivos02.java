@@ -21,7 +21,9 @@ public class A35_ConversaoDeTiposPrimitivos02 {
 		System.out.println(b1);
 		
 		// Ex 2
-		int c = 128;
+		// Caso seja atribido um valor que o tipo primitivo não suporta, a variavel receberá o proximo valor endereçado.
+		//Ex:
+		int c = 128; // O Próximo número é o -128.  
 		byte d = (byte)c;
 		System.out.println(d);
 	}
