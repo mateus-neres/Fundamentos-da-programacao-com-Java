@@ -1,4 +1,4 @@
-package fundamento;
+package fundamento.operadores;
 
 public class A041_Operadores {
 

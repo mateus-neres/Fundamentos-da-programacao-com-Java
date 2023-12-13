@@ -1,4 +1,4 @@
-package secao3_Fundamentos.src.fundamento;
+package fundamento.operadores;
 
 public class A045_ResolucaoDeDesafioAritmetica {
     public static void main(String[] args) {

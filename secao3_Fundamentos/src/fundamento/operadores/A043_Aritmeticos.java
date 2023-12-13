@@ -1,4 +1,4 @@
-package secao3_Fundamentos.src.fundamento;
+package fundamento.operadores;
 
 public class A043_Aritmeticos {
 

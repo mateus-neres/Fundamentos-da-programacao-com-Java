@@ -1,4 +1,4 @@
-package fundamento;
+package fundamento.conversao;
 
 public class A034_ConversaoDeTiposPrimitivos01 {
 
