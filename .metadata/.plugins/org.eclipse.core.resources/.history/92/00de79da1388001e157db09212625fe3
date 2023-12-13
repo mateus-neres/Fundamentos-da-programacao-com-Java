@@ -1,0 +1,20 @@
+package fundamento;
+
+public class A35_ConversaoDeTiposPrimitivos02 {
+
+	public static void main(String[] args) {
+		
+		// Conversão implicita:
+		double a = 1; // O valor 1 é inteiro, no entanto foi usado um tipo primitivo double, adicionando a ele o ponto flutuante.
+		System.out.println(a);
+		
+		// Cnoversa explicita:
+		float b = (float) 1.12345;
+		System.out.println(b);// O float entre parenteses "(float)", serve para converter o valor para o float de forma literal. 
+		// no caso a cima, tem-se a opção de ultilzar o "F" ao final do valor atribuido para o converte.
+		//Ex:
+		float b = 1.12345F;
+		System.out.println(b);
+	}
+	
+}

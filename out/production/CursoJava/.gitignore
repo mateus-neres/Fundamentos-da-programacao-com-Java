@@ -23,3 +23,13 @@
 hs_err_pid*
 replay_pid*
 /.metadata/
+/.classpath
+/.gitattributes
+/.gitignore
+/.idea/
+/.project
+/LICENSE
+/README.md
+/fundamento/
+/out/
+/secao3_Fundamentos/
