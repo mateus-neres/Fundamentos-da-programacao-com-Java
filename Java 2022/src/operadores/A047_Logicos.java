@@ -1,4 +1,4 @@
-package fundamento;
+package operadores;
 
 public class A047_Logicos {
 
