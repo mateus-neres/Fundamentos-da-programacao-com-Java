@@ -16,5 +16,7 @@ public class A051_Atribuicao {
         System.out.println(c);
         c %= 2; // c = c % 2;
         System.out.println(c);
+        c ++;
+        System.out.println(c);
     }
 }
